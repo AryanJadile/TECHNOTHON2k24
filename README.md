@@ -5,10 +5,10 @@ I developed this website for our college departmental fest to streamline the reg
 <br>
 <h3>Tech Stack</h3>
 <br>
-*HTML
-*CSS
-*SCSS
-*JS
+HTML
+CSS
+SCSS
+JS
 <br>
 
 **Visit Here:** [**Technothon2k24**](https://aryanjadile.github.io/technothon2k24/)
