@@ -9,4 +9,6 @@ I developed this website for our college departmental fest to streamline the reg
 *CSS
 *SCSS
 *JS
+<br>
+
 **Visit Here:** [**Technothon2k24**](https://aryanjadile.github.io/technothon2k24/)
